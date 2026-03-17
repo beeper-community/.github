@@ -35,21 +35,27 @@ Full monitoring suite for the Beeper ecosystem
 <td width="50%" valign="top">
 
 ### 🔄 [Update Beeper](https://github.com/beeper-community/update-beeper)
-Self-healing updater for Linux
+Self-healing updater for Linux — v1.8.1
 
-- 🐧 AppImage auto-updates
+- 🐧 AppImage auto-updates with SHA256 verification
 - ↩️ Automatic rollback on failure
-- 🔧 Self-healing capabilities
+- 🔧 Self-healing with progressive URL resolution
 - ⚡ Systemd timer integration
-- 📋 Detailed logging
+- 🖥️ Native Wayland desktop integration
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 📚 [Awesome Beeper](https://github.com/beeper-community/awesome-beeper)
 Curated list of resources, tools, bridges, and community projects for Beeper
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 [Beeper Scout](https://github.com/beeper-community/beeper-scout)
+Discover, analyze, and curate the Beeper ecosystem
 
 </td>
 </tr>
